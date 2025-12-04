@@ -11,4 +11,9 @@ GET http://localhost:3333/courses
 
 ###
 
-GET http://localhost:3333/courses/bd714ae2-390a-4db9-940f-50169c752683
+GET http://localhost:3333/courses/3
+
+
+###
+
+DELETE http://localhost:3333/courses/baebc28d-4708-4677-9a48-3b8605408841
