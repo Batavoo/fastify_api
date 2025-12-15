@@ -15,6 +15,34 @@
       "when": 1764877016357,
       "tag": "0001_easy_the_anarchist",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1765481054808,
+      "tag": "0002_daily_calypso",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1765481561853,
+      "tag": "0003_busy_runaways",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1765568837469,
+      "tag": "0004_keen_miracleman",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1765571223652,
+      "tag": "0005_chief_prism",
+      "breakpoints": true
     }
   ]
 }
